@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vk_test_task</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>

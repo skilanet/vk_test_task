@@ -2,4 +2,13 @@
     <string name="app_name">vk_test_task</string>
     <string name="from">From</string>
     <string name="to">To</string>
+    <string name="convert">Конвертировать</string>
+    <string name="currency_ratio">1%1$s = %2$.4f%3$s</string>
+    <string-array name="currencies">
+        <item>Рубль</item>
+        <item>Доллар</item>
+        <item>Евро</item>
+        <item>Юань</item>
+        <item>Фунт Стерлингов</item>
+    </string-array>
 </resources>
